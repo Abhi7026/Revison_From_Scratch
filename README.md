@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0128-longest-consecutive-sequence) |
 ## Union Find
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
