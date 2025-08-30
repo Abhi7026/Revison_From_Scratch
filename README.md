@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0128-longest-consecutive-sequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0424-longest-repeating-character-replacement) |
 ## Union Find
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
