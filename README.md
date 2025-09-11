@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
