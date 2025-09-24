@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0125-valid-palindrome) |
+| [0165-compare-version-numbers](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0131-palindrome-partitioning) |
+| [0165-compare-version-numbers](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
