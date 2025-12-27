@@ -130,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhi7026/Revison_From_Scratch/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
